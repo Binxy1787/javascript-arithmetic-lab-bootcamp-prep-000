@@ -14,15 +14,15 @@ function divide(a, b){
   
 }
 
-function inc(a, b){
+function inc(n){
   
 }
 
-function dec(a, b){
+function dec(n){
   
 }
 
-function makeInt(a, b){
+function makeInt(n){
   
 }
 
