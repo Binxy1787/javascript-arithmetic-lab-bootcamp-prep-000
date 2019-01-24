@@ -27,5 +27,5 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  return parseInt(n, 16);
+  return parseInt(n, 10);
 }
